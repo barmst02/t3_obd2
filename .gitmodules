@@ -1,0 +1,6 @@
+[submodule "lib/OneButton"]
+	path = lib/OneButton
+	url = https://github.com/mathertel/OneButton.git
+[submodule "lib/TFT_eSPI"]
+	path = lib/TFT_eSPI
+	url = https://github.com/barmst02/TFT_eSPI.git
